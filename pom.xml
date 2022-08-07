@@ -111,7 +111,7 @@
 	      <url>http://13.233.119.31:9980/mithuntechnologies/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    -->
-		<distributionManagement>
+		
     <repository>
         <id>central</id>
         <name>jfrog-releases</name>
@@ -122,7 +122,7 @@
         <name>jfrog-snapshots</name>
         <url>http://10.128.0.4:8081/artifactory/mavenwebapp</url>
     </snapshotRepository>
-</distributionManagement>
+
 		
 	</distributionManagement>
 	
