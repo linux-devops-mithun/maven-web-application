@@ -98,7 +98,7 @@
 	</dependencies>
 	
 	<distributionManagement>
-	<!--
+	<!-- // mss
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
